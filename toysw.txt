@@ -1,0 +1,24 @@
+Good Carw
+ ( toy ) 
+ Manufacturer: LEGO
+ Amount: 80
+ Price: 40
+
+Good Bear
+ ( Stuffed Animal Bear ) 
+ Manufacturer: Noname
+ Amount: 10
+ Price: 25
+
+Good Pop it
+ ( better than simple dimple ) 
+ Manufacturer: hz
+ Amount: 120
+ Price: 100
+
+Good Simple Dimple
+ ( better than pop it ) 
+ Manufacturer: hz
+ Amount: 110
+ Price: 150
+

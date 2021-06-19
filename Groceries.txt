@@ -1,0 +1,12 @@
+Good Milk
+ ( cow's product ) 
+ Manufacturer: Bohdan Zverek
+ Amount: 30
+ Price: 10
+
+Good Sausage
+ ( meat product ) 
+ Manufacturer: Bogdock Zverian
+ Amount: 50
+ Price: 20
+
